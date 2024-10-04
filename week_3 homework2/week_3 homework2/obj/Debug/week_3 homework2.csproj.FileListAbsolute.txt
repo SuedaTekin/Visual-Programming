@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\bin\Debug\week_3 homework2.exe.config
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\bin\Debug\week_3 homework2.exe
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\bin\Debug\week_3 homework2.pdb
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\obj\Debug\week_3 homework2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\obj\Debug\week_3 homework2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\obj\Debug\week_3 homework2.exe
+C:\Users\User\source\repos\week_3 homework2\week_3 homework2\obj\Debug\week_3 homework2.pdb

@@ -1,0 +1,5 @@
+﻿Build started at 11:13...
+1>------ Build started: Project: week_3 homework, Configuration: Debug Any CPU ------
+1>  week_3 homework -> C:\Users\User\source\repos\week_3 homework\week_3 homework\bin\Debug\week_3 homework.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:13 and took 00,393 seconds ==========

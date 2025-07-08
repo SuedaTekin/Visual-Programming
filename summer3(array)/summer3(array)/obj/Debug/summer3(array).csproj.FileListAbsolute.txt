@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\summer3(array)\summer3(array)\bin\Debug\summer3(array).exe.config
+C:\Users\User\source\repos\summer3(array)\summer3(array)\bin\Debug\summer3(array).exe
+C:\Users\User\source\repos\summer3(array)\summer3(array)\bin\Debug\summer3(array).pdb
+C:\Users\User\source\repos\summer3(array)\summer3(array)\obj\Debug\summer3(array).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\summer3(array)\summer3(array)\obj\Debug\summer3(array).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\summer3(array)\summer3(array)\obj\Debug\summer3(array).exe
+C:\Users\User\source\repos\summer3(array)\summer3(array)\obj\Debug\summer3(array).pdb

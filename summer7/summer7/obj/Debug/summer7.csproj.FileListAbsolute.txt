@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\summer7\summer7\bin\Debug\summer7.exe.config
+C:\Users\User\source\repos\summer7\summer7\bin\Debug\summer7.exe
+C:\Users\User\source\repos\summer7\summer7\bin\Debug\summer7.pdb
+C:\Users\User\source\repos\summer7\summer7\obj\Debug\summer7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\summer7\summer7\obj\Debug\summer7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\summer7\summer7\obj\Debug\summer7.exe
+C:\Users\User\source\repos\summer7\summer7\obj\Debug\summer7.pdb
